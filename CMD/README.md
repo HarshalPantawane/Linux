@@ -1,11 +1,10 @@
+## list directory contents
+ls
 
-- **list directory contents
- ls
-
-- **show present working directory path
+## show present working directory path
 pwd
 
-- **change directory
+## change directory
 cd filename
 
 ## search files by name
@@ -30,7 +29,6 @@ cp filename destinametion-path
 touch filename
 
 ## Edit files with vi
-$ vi
+vi
 
 ## 
-'''
